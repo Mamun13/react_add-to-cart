@@ -1,0 +1,21 @@
+.product_img {
+  height: 50px;
+  width: 50px;
+  border: 1px solid #666;
+}
+.title_bg{
+  width: 300px;
+}
+.product_quantity{
+  width: 50px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
